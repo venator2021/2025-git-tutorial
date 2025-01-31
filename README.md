@@ -1,2 +1,6 @@
 # 2025-git-tutorial
-Practice forking, committing, pushing, and PR'ing
+This repo is for the MIT iQuHACK 2025 git tutorial. 
+
+# Hackers @ MIT iQuHACK 2025 
+
+Enter your name here:
